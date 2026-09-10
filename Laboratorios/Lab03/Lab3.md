@@ -48,7 +48,9 @@ Ploteo en Python
 
 ## Explicación de la señal 
 
-La señal EMG ploteada en el Canal 1 a una frecuencia de 1000 Hz representa la actividad eléctrica generada por un movimiento leve de contracción muscular. Como se puede observar las zonas cercanas a 0mV indica un estado basal de reposo y como se mencionó anteriormente las señales cercanas a la amplitud de 0.2 mV y -0.2 mV indica la contracción muscular a un leve movimiento. Como se observa, la señal a la amplitud de +- 0.2 mV se realizó en 3 intentos con un descansos entre intentos de 30 segundos a 1 minuto.
+La señal EMG ploteada en el Canal 1 a una frecuencia de 1000 Hz representa la actividad eléctrica generada por un movimiento leve de contracción muscular. Como se puede observar las zonas cercanas a 0mV indica un estado basal de reposo y como se mencionó anteriormente las señales cercanas a la amplitud de 0.2 mV y -0.2 mV indica la contracción muscular a un leve movimiento. Como se observa, la señal a la amplitud de +- 0.2 mV se realizó en 3 intentos con un descansos entre intentos de 30 segundos a 1 minuto. La señal es generada por la suma de potenciales de acción de las fibras muscular debido a la despolarización, es decir la activación de las mencionadas. 
+
+Para el análisis se utilizó la señal EMG de la zona del brazo, pese a que se realizó igualmente la zona del dedo pulgar, en el ploteo de Python no se puede analizar correctamente la señal. 
 
 ## Quizz
 
