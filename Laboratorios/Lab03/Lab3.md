@@ -46,6 +46,10 @@ Ploteo en OpenSignals
 Ploteo en Python
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/f77d2c85-a1ba-42d4-bf91-54a0d24f6079" />
 
+## Explicación de la señal 
+
+La señal EMG ploteada en el Canal 1 a una frecuencia de 1000 Hz representa la actividad eléctrica generada por un movimiento leve de contracción muscular. Como se puede observar las zonas cercanas a 0mV indica un estado basal de reposo y como se mencionó anteriormente las señales cercanas a la amplitud de 0.2 mV y -0.2 mV indica la contracción muscular a un leve movimiento. Como se observa, la señal a la amplitud de +- 0.2 mV se realizó en 3 intentos con un descansos entre intentos de 30 segundos a 1 minuto.
+
 ## Quizz
 
 Q1. Which are the significant frequencies for EMG acquisitions? Are they the same in all body areas such as facial
