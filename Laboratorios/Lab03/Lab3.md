@@ -12,39 +12,50 @@ https://github.com/user-attachments/assets/0f618c11-f033-4a4a-a5d2-570be276c885
 
 https://github.com/user-attachments/assets/8cc60c2e-51a7-45ab-990c-25ef6b946ece
 
+Zona del brazo:
 <img width="520" height="720" alt="image" src="https://github.com/user-attachments/assets/85f0e10e-7158-4fa5-acb4-c1750dbcab2f" />
 
+Zona del pulgar:
+<img src="./ZonaPulgar.JPG" width="800">
+
 ## Fase A: Reposo
-Lectura basal.
+Lectura basal del brazo:
 
 https://github.com/user-attachments/assets/78462e5f-efaf-47ea-881c-30e8d9bc6178
 
 ## Fase B: Movimiento leve
 Se realizaron 3 repeticiones, con descansos de 1 minutos entre intentos.
 
-
+Zona del brazo:
 https://github.com/user-attachments/assets/66a6dc9c-8a4b-4e5c-a32d-f5707b22ac4e
-
 
 https://github.com/user-attachments/assets/f3cae1ef-69ab-4a6b-b1f5-a429ea5cc25c
 
-
+Zona del pulgar:
+[Movimiento leve](./MovimientoLeve.mov)
 
 ## Fase C: Movimiento contra fuerza contraria
 Se realizaron 3 repeticiones, con descansos de 1 minutos entre intentos.
 
+Zona del brazo:
 https://github.com/user-attachments/assets/0dcb52dc-3dc3-4d97-a9f6-60fef73931de
 
 https://github.com/user-attachments/assets/a7f4cc48-0651-4ef4-9971-381ef5968cfc
 
 https://github.com/user-attachments/assets/97592175-4d76-4c1f-92ac-e6f5990b5688
 
+Zona del pulgar:
+[Movimiento fuerte](./Movimientofuerte.mov)
+
 ## Señal amplitud vs tiempo
 Ploteo en OpenSignals
 <img width="1600" height="720" alt="Ploteo OpenSignals" src="OPENSIGNALSPLOT.jpg" />
 
-Ploteo en Python
+Ploteo en Python (brazo):
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/f77d2c85-a1ba-42d4-bf91-54a0d24f6079" />
+
+Ploteo en Python (pulgar):
+<img src="./PlotePythonPulgar.jpg" width="1000">
 
 ## Explicación de la señal 
 
