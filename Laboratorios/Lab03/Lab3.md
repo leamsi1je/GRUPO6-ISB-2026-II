@@ -18,7 +18,7 @@ Zona del brazo:
 
 Zona del pulgar:
 
-<img src="./ZonaPulgar.JPG" width="800">
+<img src="./ZonaPulgar.JPG" width="520" height="720">
 
 ## Fase A: Reposo
 Lectura basal del brazo:
