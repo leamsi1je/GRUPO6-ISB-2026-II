@@ -18,6 +18,14 @@ Zona del brazo:
 
 Zona del pulgar:
 
+
+https://github.com/user-attachments/assets/3d254c0e-79e5-41ce-aae6-62215803f821
+
+
+
+https://github.com/user-attachments/assets/ba8edc16-f8e2-43a8-985a-638e424319fd
+
+
 <img src="./ZonaPulgar.JPG" width="520" height="720">
 
 ## Fase A: Reposo
