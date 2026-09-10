@@ -13,9 +13,11 @@ https://github.com/user-attachments/assets/0f618c11-f033-4a4a-a5d2-570be276c885
 https://github.com/user-attachments/assets/8cc60c2e-51a7-45ab-990c-25ef6b946ece
 
 Zona del brazo:
+
 <img width="520" height="720" alt="image" src="https://github.com/user-attachments/assets/85f0e10e-7158-4fa5-acb4-c1750dbcab2f" />
 
 Zona del pulgar:
+
 <img src="./ZonaPulgar.JPG" width="800">
 
 ## Fase A: Reposo
@@ -32,7 +34,8 @@ https://github.com/user-attachments/assets/66a6dc9c-8a4b-4e5c-a32d-f5707b22ac4e
 https://github.com/user-attachments/assets/f3cae1ef-69ab-4a6b-b1f5-a429ea5cc25c
 
 Zona del pulgar:
-[Movimiento leve](./MovimientoLeve.mov)
+
+<video src="./MovimientoLeve.mov" controls width="100%"></video>
 
 ## Fase C: Movimiento contra fuerza contraria
 Se realizaron 3 repeticiones, con descansos de 1 minutos entre intentos.
@@ -45,7 +48,8 @@ https://github.com/user-attachments/assets/a7f4cc48-0651-4ef4-9971-381ef5968cfc
 https://github.com/user-attachments/assets/97592175-4d76-4c1f-92ac-e6f5990b5688
 
 Zona del pulgar:
-[Movimiento fuerte](./Movimientofuerte.mov)
+
+<video src="./Movimientofuerte.mov" controls width="100%"></video>
 
 ## Señal amplitud vs tiempo
 Ploteo en OpenSignals
