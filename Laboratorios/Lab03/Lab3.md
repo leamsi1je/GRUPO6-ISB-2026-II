@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/0f618c11-f033-4a4a-a5d2-570be276c885
 
 https://github.com/user-attachments/assets/8cc60c2e-51a7-45ab-990c-25ef6b946ece
 
-<img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/f7b60a51-9c83-4b8b-b7ba-d5d78e95521d" />
+<img width="450" height="700" alt="image" src="https://github.com/user-attachments/assets/f7b60a51-9c83-4b8b-b7ba-d5d78e95521d" />
 
 # Fase A: Reposo
 
