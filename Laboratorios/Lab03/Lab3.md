@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/97592175-4d76-4c1f-92ac-e6f5990b5688
 
 ## Señal amplitud vs tiempo
 Ploteo en OpenSignals
-<img width="1600" height="720" alt="Ploteo OpenSignals" src="PHOTO-2026-09-10-09-39-20.jpg" />
+<img width="1600" height="720" alt="Ploteo OpenSignals" src="OPENSIGNALSPLOT.jpg" />
 
 Ploteo en Python
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/f77d2c85-a1ba-42d4-bf91-54a0d24f6079" />
