@@ -12,17 +12,36 @@ https://github.com/user-attachments/assets/0f618c11-f033-4a4a-a5d2-570be276c885
 
 https://github.com/user-attachments/assets/8cc60c2e-51a7-45ab-990c-25ef6b946ece
 
-<img width="450" height="700" alt="image" src="https://github.com/user-attachments/assets/f7b60a51-9c83-4b8b-b7ba-d5d78e95521d" />
+<img width="1041" height="1443" alt="image" src="https://github.com/user-attachments/assets/85f0e10e-7158-4fa5-acb4-c1750dbcab2f" />
 
-# Fase A: Reposo
+## Fase A: Reposo
+Lectura basal.
+
+https://github.com/user-attachments/assets/78462e5f-efaf-47ea-881c-30e8d9bc6178
+
+## Fase B: Movimiento leve
+Se realizaron 3 repeticiones, con descansos de 1 minutos entre intentos.
 
 
-# Fase B: Movimiento leve
+https://github.com/user-attachments/assets/66a6dc9c-8a4b-4e5c-a32d-f5707b22ac4e
 
 
-# Fase C: Movimiento contra fuerza contraria
+https://github.com/user-attachments/assets/f3cae1ef-69ab-4a6b-b1f5-a429ea5cc25c
 
 
+
+## Fase C: Movimiento contra fuerza contraria
+Se realizaron 3 repeticiones, con descansos de 1 minutos entre intentos.
+
+https://github.com/user-attachments/assets/0dcb52dc-3dc3-4d97-a9f6-60fef73931de
+
+https://github.com/user-attachments/assets/a7f4cc48-0651-4ef4-9971-381ef5968cfc
+
+https://github.com/user-attachments/assets/97592175-4d76-4c1f-92ac-e6f5990b5688
+
+## Señal amplitud vs tiempo
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/f77d2c85-a1ba-42d4-bf91-54a0d24f6079" />
 
 ## Quizz
 
