@@ -1,4 +1,25 @@
-# Informe
+# Informe Laboratorio 3
+
+# Colocación de electrodos y uso del bitalino
+Siguiendo las consideraciones dadas en clase y la guía, se colocaron los electrodos correspondientes a los músculos bíceps y a la referencia. Se tomó en cuenta evitar la cercanía.
+de elementos tecnológicos al bitalino y se realizó la conexión bluetooth.
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-10 at 4 28 41 AM" src="https://github.com/user-attachments/assets/8101626c-32f7-4fbf-8a2e-9bc94347226c" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4aa4b66b-63f3-4b45-8c07-9ea49658977b" />
+
+
+
+
+# Fase A: Reposo
+
+
+# Fase B: Movimiento leve
+
+
+# Fase C: Movimiento contra fuerza contraria
+
+
 
 ## Quizz
 
