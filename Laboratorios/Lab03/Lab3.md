@@ -4,15 +4,15 @@
 Siguiendo las consideraciones dadas en clase y la guía, se colocaron los electrodos correspondientes a los músculos bíceps y a la referencia. Se tomó en cuenta evitar la cercanía.
 de elementos tecnológicos al bitalino y se realizó la conexión bluetooth.
 
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-10 at 4 28 41 AM" src="https://github.com/user-attachments/assets/8101626c-32f7-4fbf-8a2e-9bc94347226c" />
+<img width="800" height="600" alt="WhatsApp Image 2026-09-10 at 4 28 41 AM" src="https://github.com/user-attachments/assets/8101626c-32f7-4fbf-8a2e-9bc94347226c" />
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4aa4b66b-63f3-4b45-8c07-9ea49658977b" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4aa4b66b-63f3-4b45-8c07-9ea49658977b" />
 
 https://github.com/user-attachments/assets/0f618c11-f033-4a4a-a5d2-570be276c885
 
 https://github.com/user-attachments/assets/8cc60c2e-51a7-45ab-990c-25ef6b946ece
 
-<img width="1041" height="1443" alt="image" src="https://github.com/user-attachments/assets/85f0e10e-7158-4fa5-acb4-c1750dbcab2f" />
+<img width="520" height="720" alt="image" src="https://github.com/user-attachments/assets/85f0e10e-7158-4fa5-acb4-c1750dbcab2f" />
 
 ## Fase A: Reposo
 Lectura basal.
