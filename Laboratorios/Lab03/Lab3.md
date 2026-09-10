@@ -8,6 +8,7 @@ de elementos tecnológicos al bitalino y se realizó la conexión bluetooth.
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4aa4b66b-63f3-4b45-8c07-9ea49658977b" />
 
+https://github.com/user-attachments/assets/0f618c11-f033-4a4a-a5d2-570be276c885
 
 
 
