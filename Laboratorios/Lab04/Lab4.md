@@ -59,4 +59,14 @@ Después del ploteo de las señales en Open Signals, para una mejor visualizaci�
 <img width="1600" height="658" alt="8b0698ed-c6ca-41eb-b673-4a9832e8bca1" src="https://github.com/user-attachments/assets/54578134-f215-47d4-b2aa-096db6830007" />
 
 - Actividad Aeróbica (3 derivadas):
+  - Primera Derivada:
+
+    <img width="1600" height="679" alt="56579a86-aaad-40d2-b889-cf4b70c72d6e" src="https://github.com/user-attachments/assets/b214a13c-4d53-4d77-b47e-4234d1d2af09" />
+    
+  - Segunda Derivada:
  
+  <img width="1600" height="668" alt="940125c1-6375-4c2b-8b15-849470d6d311" src="https://github.com/user-attachments/assets/e5a9b235-0e08-4735-adcf-24b3a41e3b33" />
+  
+  - Tercera Derivada:
+
+    <img width="1600" height="667" alt="01fc709e-6325-4b50-aa90-1eac960b88de" src="https://github.com/user-attachments/assets/93922755-28f5-4f2d-97bc-8c25c719d802" />
