@@ -24,7 +24,7 @@ Para la tercera derivada se realizó el cambio del electrodo de referencia (elec
 
 Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino en el Open Signals:
 
-<img width="1600" height="1200" alt="a5842bff-f861-4bbb-b574-3f74986e9ebc" src="https://github.com/user-attachments/assets/ffab953c-1499-4c64-a192-25d27d859939" />
+<img width="800" height="600" alt="a5842bff-f861-4bbb-b574-3f74986e9ebc" src="https://github.com/user-attachments/assets/ffab953c-1499-4c64-a192-25d27d859939" />
 
 # Video de la señal ploteada 
 
