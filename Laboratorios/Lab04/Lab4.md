@@ -29,7 +29,6 @@ Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino 
 # Video de las señales ploteadas y su obtención
 - Basal
   
-
 https://github.com/user-attachments/assets/0989ceb0-7372-4c00-ba97-d7c06769a68f
 
 https://github.com/user-attachments/assets/c6c5b8a0-aad6-4da3-b5ab-a4dcc276de4e
@@ -47,6 +46,12 @@ https://github.com/user-attachments/assets/2a95988c-7301-4a19-893b-8ca5a6a3b18e
 - Hipoventilación
 
 https://github.com/user-attachments/assets/d8e307a7-521f-474b-aec4-d9824d10d37f
+
+https://github.com/user-attachments/assets/3291724f-be97-44a9-8262-24c181b29c15
+
+https://github.com/user-attachments/assets/71ddf0aa-e00a-4b6a-85aa-b5399be8bb89
+
+
 
 
 
