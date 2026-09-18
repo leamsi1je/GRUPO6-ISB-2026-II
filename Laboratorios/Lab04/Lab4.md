@@ -34,8 +34,9 @@ https://github.com/user-attachments/assets/0989ceb0-7372-4c00-ba97-d7c06769a68f
 
 https://github.com/user-attachments/assets/c6c5b8a0-aad6-4da3-b5ab-a4dcc276de4e
 
-
 https://github.com/user-attachments/assets/3a924c01-e087-4d07-a624-6440a9a42913
+
+- Hiperventilación
 
 
 
