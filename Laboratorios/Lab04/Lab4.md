@@ -29,6 +29,34 @@ Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino 
 # Video de la señal ploteada 
 
 # Ploteo de la señal en Open Signals
+- Lectura Basal de las 3 derivadas:
+  - Primera Derivada:
+
+     <img width="1600" height="825" alt="0a73a081-980a-4376-b26a-4ab445f99326" src="https://github.com/user-attachments/assets/8bc3d52e-5aed-4fcc-b847-7f25d2ed71af" />
+
+  - Segunda Derivada:
+ 
+     <img width="1600" height="858" alt="4a9b6f9c-769a-4b3b-baa5-e030b86ec18f" src="https://github.com/user-attachments/assets/97cb6969-9ab4-4292-bcfb-10381c435dac" />
+    
+
+  - Tercera Derivada:
+
+    <img width="1600" height="845" alt="e73d4841-f409-4401-a744-f6e521c3b4df" src="https://github.com/user-attachments/assets/96d51e30-51d4-4524-a3d0-3e4e0250ba0a" />
+
+- Hiperventilación (3 derivadas):
+  - Primera Derivada:
+
+    <img width="1600" height="825" alt="c1ec2012-6099-4c6f-8ab5-e2e2ba00f540" src="https://github.com/user-attachments/assets/f11de400-412e-47bf-8b1a-b28a993468da" />
+ 
+  - Segunda Derivada:
+
+    <img width="1600" height="873" alt="a2add845-20ab-4b2b-b195-b40d71f6beb5" src="https://github.com/user-attachments/assets/14111ada-5e79-489e-b220-32f50d359807" />
+ 
+  - Tercera Derivada:
+
+    <img width="1600" height="862" alt="1d3803b7-7866-4a54-bd5b-0df8fcf224c3" src="https://github.com/user-attachments/assets/f5803492-ee97-4b13-9f21-2c417162e954" />
+
+- Hipoventilación (3 derivadas):
 
 # Resumen y explicación de las señales ploteadas
 
