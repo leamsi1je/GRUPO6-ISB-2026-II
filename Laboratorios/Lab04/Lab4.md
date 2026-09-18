@@ -57,6 +57,9 @@ Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino 
     <img width="1600" height="862" alt="1d3803b7-7866-4a54-bd5b-0df8fcf224c3" src="https://github.com/user-attachments/assets/f5803492-ee97-4b13-9f21-2c417162e954" />
 
 - Hipoventilación (3 derivadas):
+  - Primera Derivada:
+  - Segunda Derivada:
+  - Tercera Derivada:
 
 # Resumen y explicación de las señales ploteadas
 
