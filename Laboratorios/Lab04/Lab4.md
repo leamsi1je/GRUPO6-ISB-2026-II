@@ -38,6 +38,16 @@ https://github.com/user-attachments/assets/3a924c01-e087-4d07-a624-6440a9a42913
 
 - Hiperventilación
 
+https://github.com/user-attachments/assets/67eaf607-b4d5-4270-b776-1c27bdccb273
+
+https://github.com/user-attachments/assets/78816e44-86d4-459c-a684-b4880e062230
+
+https://github.com/user-attachments/assets/2a95988c-7301-4a19-893b-8ca5a6a3b18e
+
+- Hipoventilación
+
+https://github.com/user-attachments/assets/d8e307a7-521f-474b-aec4-d9824d10d37f
+
 
 
 
