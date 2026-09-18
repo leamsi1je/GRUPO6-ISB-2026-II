@@ -123,6 +123,22 @@ https://github.com/user-attachments/assets/e393d081-20a5-425e-8d8f-74d96e6c3488
 
 # Resumen y explicación de las señales ploteadas
 
+1. Estado de reposo (basal):
+
+Comportamiento visual: En primer lugar, la señal se presenta sumamente limpia, estable y uniforme. La separación entre cada latido mantiene una distancia constante y periódica, manteniéndose casi recta a lo largo del tiempo, esto es debido a que, al encontrarse el voluntario en completa calma y sin esfuerzo físico, el corazón no tiene la necesidad de bombear sangre con prisa. Por lo tanto, trabaja a un ritmo base pausado y regular para abastecer la demanda mínima de oxígeno.
+
+2. Estado de hiperventilación:
+
+A diferencia del reposo, aquí se aprecia de inmediato que la señal describe un movimiento ondulatorio lento que sube y baja suavemente. Asimismo, la distancia entre un latido y otro deja de ser fija: se observa con claridad que los picos se juntan levemente al inhalar y se separan más al exhalar, este fenómeno ocurre, por un lado, porque la caja toráxica se expande y se contrae físicamente, lo cual desplaza un poco los electrodos y hace ondular el trazo. Por otro lado, debido a los cambios de presión en el pecho, el cuerpo responde acelerando ligeramente los latidos al inhalar y frenándolos al exhalar.
+
+3. Estado de hipoventilación:
+
+Al suspender la respiración la línea base recupera su estabilidad horizontal, desapareciendo casi por completo las ondas lentas de subida y bajada. Sin embargo, a medida que pasan los segundos sin respirar, la distancia entre latido y latido tiende a espaciarse de manera progresiva, esto ocurre porque, al dejar de mover el tórax, cesan las perturbaciones mecánicas sobre los sensores. Al mismo tiempo, como mecanismo de defensa ante la falta momentánea de intercambio de aire, el sistema nervioso reacciona desacelerando los latidos del corazón para reducir el gasto de energía y conservar el oxígeno disponible.
+
+4. Estado posterior al ejercicio (post-esfuerzo):
+
+Finalmente, en este registro se hace evidente un cambio drástico en comparación con todos los anteriores. Los picos aparecen sumamente apretados entre sí, reflejando una cantidad de latidos mucho mayor en el mismo intervalo de tiempo; en consecuencia, los periodos planos de descanso entre una pulsación y la siguiente prácticamente se comprimen al mínimo, esto se explica en que, tras la actividad física exigente, la masa muscular consume una gran cantidad de energía y demanda oxígeno de forma inmediata. Por esta razón, el corazón se ve forzado a bombear a máxima velocidad para responder a dicha necesidad y favorecer la pronta recuperación del cuerpo.
+
 # Ploteo de la señal en Python:
 Después del ploteo de las señales en Open Signals, para una mejor visualización y compresión de las señales se plotearon en Python.
 - Lectura Basal de las 3 derivadas:
