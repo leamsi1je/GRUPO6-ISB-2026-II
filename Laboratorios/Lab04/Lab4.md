@@ -3,15 +3,19 @@ En el Laboratorio 4 se midió la señal ECG, el canal 2 del bitalino, con respec
 # Ubicación de electrodos y uso del bitalino
 Se ubicaron los electrodos de la siguiente manera y se conectó el bitalino como se mencionó anteriormente en el canal 2, canal ECG:
 - Ubicación de Electrodos:
+  
 <img width="1600" height="1200" alt="0926d74b-fcf5-4b84-a002-a32b5de0d69b" src="https://github.com/user-attachments/assets/f83d3b44-12a8-42f6-a8ad-bbac47585204" />
 
 - Electrodo de Referencia:
+
 <img width="844" height="779" alt="1d0e780f-708e-4fac-813b-4247ef09f202" src="https://github.com/user-attachments/assets/3b3293f7-8c2c-4513-87c7-3b9a4f779af6" />
 
 - Canal 2, indica medición de ECG en el bitalino:
+  
 <img width="1600" height="1200" alt="8e711e5d-e60d-4dd6-82d2-d2ce1f40f737" src="https://github.com/user-attachments/assets/dffd1c82-e124-463e-b917-006801770785" />
 
 Para seguir las 3 derivadas se utilizó la siguiente imagen de referencia de la primera derivada:
+
 <img width="326" height="421" alt="hykugsrgerg" src="https://github.com/user-attachments/assets/572f6013-885f-4bc1-bf18-9ee9b3762ba3" />
 
 Para la segunda derivada se realizó el cambio del electrodo de referencia (electrodo blanco) con el electrodo rojo.
@@ -19,6 +23,7 @@ Para la segunda derivada se realizó el cambio del electrodo de referencia (elec
 Para la tercera derivada se realizó el cambio del electrodo de referencia (electrodo blanco) con el electrodo negro.
 
 Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino en el Open Signals:
+
 <img width="1600" height="1200" alt="a5842bff-f861-4bbb-b574-3f74986e9ebc" src="https://github.com/user-attachments/assets/ffab953c-1499-4c64-a192-25d27d859939" />
 
 # Video de la señal ploteada 
@@ -50,6 +55,8 @@ Después del ploteo de las señales en Open Signals, para una mejor visualizaci�
 <img width="1600" height="662" alt="40e6ce4c-e912-4de4-85b3-5aa183165a7d" src="https://github.com/user-attachments/assets/5d4886c3-9fa6-4711-a3f5-4cc58762a4dc" />
 
 <img width="1600" height="668" alt="8d4f20c9-73d6-4e9d-a415-fdf89f49c822" src="https://github.com/user-attachments/assets/7f8b9197-5f92-4ace-80f9-4708f00eda37" />
+
+<img width="1600" height="658" alt="8b0698ed-c6ca-41eb-b673-4a9832e8bca1" src="https://github.com/user-attachments/assets/54578134-f215-47d4-b2aa-096db6830007" />
 
 - Actividad Aeróbica (3 derivadas):
  
