@@ -51,6 +51,16 @@ https://github.com/user-attachments/assets/3291724f-be97-44a9-8262-24c181b29c15
 
 https://github.com/user-attachments/assets/71ddf0aa-e00a-4b6a-85aa-b5399be8bb89
 
+- Actividad Aeróbica
+
+https://github.com/user-attachments/assets/3fb594ea-3710-4bc0-bb87-3adfbb0ac651
+
+https://github.com/user-attachments/assets/48ed30fd-daca-4095-802d-ee94d01a06a8
+
+https://github.com/user-attachments/assets/e393d081-20a5-425e-8d8f-74d96e6c3488
+
+
+
 
 
 
