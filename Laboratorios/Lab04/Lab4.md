@@ -27,6 +27,13 @@ Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino 
 <img width="800" height="600" alt="a5842bff-f861-4bbb-b574-3f74986e9ebc" src="https://github.com/user-attachments/assets/ffab953c-1499-4c64-a192-25d27d859939" />
 
 # Video de las señales ploteadas y su obtención
+- Basal
+  
+
+https://github.com/user-attachments/assets/0989ceb0-7372-4c00-ba97-d7c06769a68f
+
+
+
 
 # Ploteo de la señal en Open Signals
 - Lectura Basal de las 3 derivadas:
