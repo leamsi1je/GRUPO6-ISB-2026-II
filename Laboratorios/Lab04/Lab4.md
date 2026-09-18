@@ -69,6 +69,18 @@ Tras conectar el bitalino con sus respectivas y prenderlo se buscó el bitalino 
 
     <img width="1600" height="862" alt="4dbd390f-9aed-4041-8b04-9db9704ddeb7" src="https://github.com/user-attachments/assets/1dc16d01-a057-4cb9-ba0d-49317ac03813" />
 
+- Actividad Aeróbica (3 derivadas):
+  - Primera Derivada:
+
+    <img width="1600" height="859" alt="3dbdded2-487b-4e0f-a559-ad91ef3020a5" src="https://github.com/user-attachments/assets/477aa879-ca66-49e3-b3cd-7e88e880b491" />
+
+  - Segunda Derivada:
+    
+     <img width="1600" height="865" alt="bd113b32-8523-44c5-8100-180c3702e600" src="https://github.com/user-attachments/assets/c2b011b1-2d8c-400c-881d-a3db5e9aa405" />
+
+  - Tercera Derivada:
+
+    <img width="1600" height="854" alt="a61cb428-e1bb-4bdd-b89d-80b79d71e31b" src="https://github.com/user-attachments/assets/f4c102b3-a82a-4bf6-951e-0a3ef64da5f2" />
 
 # Resumen y explicación de las señales ploteadas
 
