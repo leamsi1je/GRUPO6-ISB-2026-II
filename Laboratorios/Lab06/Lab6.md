@@ -35,7 +35,11 @@ Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otro
 https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
 
 
-- Lectura Basal (Segunda Persona): Iguales indicaciones de uso de materiales extra.
+- Lectura Basal (Segunda Persona): Iguales indicaciones de uso de materiales extra. En este caso nuestro compañero se encontraba en un estado de somnolencia.
+
+
+https://github.com/user-attachments/assets/63b20908-40f7-4d08-8c67-64232904f03a
+
 
 - Inicio de Ciclo de Apertura y Cierre de Ojos
   
