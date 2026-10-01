@@ -29,13 +29,25 @@ El electrodo de referencia se colocó en el canal 1, detrás de la oreja como in
 
 <img width="305" height="308" alt="esndnskdnsodaps" src="https://github.com/user-attachments/assets/7d1eab3d-4041-4443-9e44-0dd0385d29d0" />
 
-Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otros para FP2 respectivamente, se graficó la señal EEG
+Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otros para FP2 respectivamente, se graficó la señal EEG de los electrodos FP1 en el canal 2 puesto que se visualizó una señal más adecuada para su análisis. 
 
-# Video de las señales ploteadas y su obtención
+# Vídeo de las señales obtenidas 
+
+
+# Imágenes de la señal ploteada en Open Signals (Segunda Persona)
 
 - Basal
 
-# Respuestas del Quizz:
+# Ploteo de la señal en Python (Segunda Persona)
+
+# Análisis de la gráfica de las señales ploteadas (Segunda Persona)
+
+Para realizar el análisis adecuadamente se utilizará la definición, ejemplos y frecuencias del tipo de ondas identificadas:
+
+<img width="650" height="412" alt="asasasdasd" src="https://github.com/user-attachments/assets/3e940a1c-ac15-40da-9f45-fae773119f9f" />
+
+
+# Respuestas del Quizz
 
 Q1. Which are the significant frequencies for EEG acquisitions? Are they the same in all brain areas?
 
