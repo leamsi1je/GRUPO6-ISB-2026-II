@@ -31,6 +31,10 @@ Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otro
 # Vídeo de las señales obtenidas 
 - Lectura Basal (Primera Persona): Para la lectura basal se utilizó el antifaz y los audífonos como tapones para entrar a un estado de descanso.
 
+
+https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
+
+
 - Lectura Basal (Segunda Persona): Iguales indicaciones de uso de materiales extra.
 
 - Inicio de Ciclo de Apertura y Cierre de Ojos
