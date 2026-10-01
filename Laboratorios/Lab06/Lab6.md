@@ -10,7 +10,7 @@ Se uso el siguiente Bitalino especificado para señal EEG:
 <img width="332" height="337" alt="Captura" src="https://github.com/user-attachments/assets/1329ba73-717d-49b2-8f65-1b268d39f30c" />
 
 Se ubicaron los electrodos FP1 y FP2  de la siguiente manera y se conectó el Bitalino en el canal 2 y 3 respectivamente para graficar las
-señales ECG:
+señales ECG. Además se utilizaron materiales extra como audífonos de cable (que se utilizaron como tapones para la lectura basal) y un antifaz utilizado para la lectura basal. 
 - Ubicación de Electrodos (Guía de Referencia):
 
   <img width="338" height="318" alt="sdfsdfsdfsfs" src="https://github.com/user-attachments/assets/413cfec3-672f-4fcf-abe5-fcc16f550b55" />
@@ -18,12 +18,8 @@ señales ECG:
   <img width="622" height="357" alt="sdfsfsdf" src="https://github.com/user-attachments/assets/4a58afe5-43cf-415d-b380-8cc0ece02214" />
   
 - Ubicación de Electrodos:
-  - Primera Persona:
 
      <img width="324" height="288" alt="wsefewgwege" src="https://github.com/user-attachments/assets/c584bcf0-8bb9-4507-aed3-a00eec6a72d4" />
-
-  - Segunda Persona:
-
 
 El electrodo de referencia se colocó en el canal 1, detrás de la oreja como indica la guía. 
 
