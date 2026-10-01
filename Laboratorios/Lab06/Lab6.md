@@ -31,9 +31,7 @@ Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otro
 # Vídeo de las señales obtenidas 
 - Lectura Basal (Primera Persona): Para la lectura basal se utilizó el antifaz y los audífonos como tapones para entrar a un estado de descanso.
 
-
-
-
+https://github.com/user-attachments/assets/4fbc1025-249f-4242-a293-96f558102508
 
 - Lectura Basal (Segunda Persona): Iguales indicaciones de uso de materiales extra. En este caso nuestro compañero se encontraba en un estado de somnolencia.
 
@@ -58,6 +56,10 @@ https://github.com/user-attachments/assets/4d345093-717d-422a-bd1e-8d3a694d7367
 https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
 
 - Escuchar Música (Primera Persona)
+
+
+https://github.com/user-attachments/assets/373bb685-8fb7-4561-acad-4bd52af4b902
+
 
 - Escuchar Música (Segunda Persona)
 
