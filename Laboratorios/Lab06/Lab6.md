@@ -79,7 +79,29 @@ https://github.com/user-attachments/assets/84aead63-fb3d-46f2-8396-02938b7609a4
   - Loffi Theme
   - Hard Metal
 
-# Ploteo de la señal en Python (Segunda Persona)
+# Ploteo de la señal en Python (Segunda Persona) en el dominio del tiempo y en el dominio de frecuencias
+
+- Lectura Basal
+- 
+![Abrir y cerrar EEG](Graficas_EEG/Abrirycerrar_EEG2.0_converted.png)
+
+- Inicio de Ciclo de Apertura y Cierre de Ojos
+  
+![EEG Basal](Graficas_EEG/EEG_Basal2.0_converted.png)
+
+- Susurrar 5 Preguntas Complejas
+
+![Preguntas EEG](Graficas_EEG/Preguntas2.0_EEG_converted.png)
+
+- Escuchar Música:
+  - Loffi Theme:
+    
+    ![Música EEG](Graficas_EEG/musica_eeg2.0_converted.png)
+    
+  - Hard Metal:
+    
+    ![Música EEG](Graficas_EEG/musica_eeg2.0_converted_movida.png)
+  
 
 # Análisis de la gráfica de las señales ploteadas (Segunda Persona)
 
