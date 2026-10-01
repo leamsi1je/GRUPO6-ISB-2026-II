@@ -5,7 +5,7 @@ Somos el Grupo 6 del curso de Introducción a Señales Biómedicas del ciclo 202
 
 **Objetivo**: Otorgar conocimientos básicos y fundamentales en el tema de adquisición, análisis y procesamiento de señales biomédicas. 
 
-**Profesores**: Moises Stevend Meza Rodriguez, Jose Alonso Caceres del Aguila
+**Profesores**: Moises Stevend Meza Rodriguez,Jose Alonso Caceres del Aguila
 
 ## Integrantes del Grupo 6
 | Integrantes                                | Rol             | 
