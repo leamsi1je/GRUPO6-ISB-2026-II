@@ -65,6 +65,10 @@ https://github.com/user-attachments/assets/373bb685-8fb7-4561-acad-4bd52af4b902
 
 
 
+https://github.com/user-attachments/assets/84aead63-fb3d-46f2-8396-02938b7609a4
+
+
+
 # Imágenes de la señal ploteada en Open Signals (Segunda Persona)
 
 - Lectura Basal
