@@ -83,7 +83,7 @@ https://github.com/user-attachments/assets/84aead63-fb3d-46f2-8396-02938b7609a4
 
 - Lectura Basal
 - 
-![Abrir y cerrar EEG](Graficas_EEG/Abrirycerrar_EEG2.0_converted.png)
+![Abrir y cerrar EEG](Graficas_EEG/Abrirycerar_EEG2.0_converted.png)
 
 - Inicio de Ciclo de Apertura y Cierre de Ojos
   
