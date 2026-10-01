@@ -32,7 +32,7 @@ Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otro
 - Lectura Basal (Primera Persona): Para la lectura basal se utilizó el antifaz y los audífonos como tapones para entrar a un estado de descanso.
 
 
-https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
+
 
 
 - Lectura Basal (Segunda Persona): Iguales indicaciones de uso de materiales extra. En este caso nuestro compañero se encontraba en un estado de somnolencia.
@@ -53,9 +53,13 @@ https://github.com/user-attachments/assets/1d0423ff-bf51-476f-90ab-74eab967f893
 https://github.com/user-attachments/assets/4d345093-717d-422a-bd1e-8d3a694d7367
 
   
-- Susurrar 5 Preguntas Complejas (Primera Persona)
+- Susurrar 5 Preguntas Complejas (Primera Persona): Para realizar las 5 preguntas complejas se quitó un audífono, nuestra compañera se encontraba en un estado de resolución de problemas.
+
+https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
 
 - Escuchar Música (Primera Persona)
+
+- Escuchar Música (Segunda Persona)
 
 
 
