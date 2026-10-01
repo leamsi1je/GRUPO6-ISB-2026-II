@@ -40,10 +40,14 @@ https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
 
 https://github.com/user-attachments/assets/63b20908-40f7-4d08-8c67-64232904f03a
 
-- Inicio de Ciclo de Apertura y Cierre de Ojos (Primera Persona)
+- Inicio de Ciclo de Apertura y Cierre de Ojos (Primera Persona): Para este ejercicio se quitó el antifaz más no los audífonos, así nuestra compañera se concentraría en un único punto. 
 
 
-- Inicio de Ciclo de Apertura y Cierre de Ojos (Segunda Persona)
+https://github.com/user-attachments/assets/1d0423ff-bf51-476f-90ab-74eab967f893
+
+
+
+- Inicio de Ciclo de Apertura y Cierre de Ojos (Segunda Persona): Igualmente que la primera persona, sin ninguna diferencia de estado de concentración. 
 
   
 https://github.com/user-attachments/assets/4d345093-717d-422a-bd1e-8d3a694d7367
