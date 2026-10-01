@@ -9,6 +9,7 @@ Se uso el siguiente Bitalino especificado para señal EEG:
 
 <img width="332" height="337" alt="Captura" src="https://github.com/user-attachments/assets/1329ba73-717d-49b2-8f65-1b268d39f30c" />
 
+
 Se ubicaron los electrodos FP1 y FP2  de la siguiente manera y se conectó el Bitalino en el canal 2 y 3 respectivamente para graficar las
 señales ECG. Además se utilizaron materiales extra como audífonos de cable (que se utilizaron como tapones para la lectura basal) y un antifaz utilizado para la lectura basal. 
 - Ubicación de Electrodos (Guía de Referencia):
@@ -28,11 +29,25 @@ El electrodo de referencia se colocó en el canal 1, detrás de la oreja como in
 Pese a que se conectaron los cuatro electrodos, dos de ellos para FP1 y los otros para FP2 respectivamente, se graficó la señal EEG de los electrodos FP1 en el canal 2 puesto que se visualizó una señal más adecuada para su análisis. 
 
 # Vídeo de las señales obtenidas 
+- Lectura Basal (Primera Persona): Para la lectura basal se utilizó el antifaz y los audífonos como tapones para entrar a un estado de descanso.
 
+- Lectura Basal (Segunda Persona): Iguales indicaciones de uso de materiales extra.
+
+- Inicio de Ciclo de Apertura y Cierre de Ojos
+  
+- Susurrar 5 Preguntas Complejas
+
+- Escuchar Música
 
 # Imágenes de la señal ploteada en Open Signals (Segunda Persona)
 
-- Basal
+- Lectura Basal
+
+- Inicio de Ciclo de Apertura y Cierre de Ojos
+- Susurrar 5 Preguntas Complejas
+- Escuchar Música:
+  - Loffi Theme
+  - Hard Metal
 
 # Ploteo de la señal en Python (Segunda Persona)
 
