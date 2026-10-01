@@ -40,12 +40,20 @@ https://github.com/user-attachments/assets/afb73c20-d998-48e9-b14d-413012cea5e1
 
 https://github.com/user-attachments/assets/63b20908-40f7-4d08-8c67-64232904f03a
 
+- Inicio de Ciclo de Apertura y Cierre de Ojos (Primera Persona)
 
-- Inicio de Ciclo de Apertura y Cierre de Ojos
+
+- Inicio de Ciclo de Apertura y Cierre de Ojos (Segunda Persona)
+
   
-- Susurrar 5 Preguntas Complejas
+https://github.com/user-attachments/assets/4d345093-717d-422a-bd1e-8d3a694d7367
 
-- Escuchar Música
+  
+- Susurrar 5 Preguntas Complejas (Primera Persona)
+
+- Escuchar Música (Primera Persona)
+
+
 
 # Imágenes de la señal ploteada en Open Signals (Segunda Persona)
 
