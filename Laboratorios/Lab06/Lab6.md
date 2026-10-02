@@ -114,19 +114,19 @@ Para realizar el análisis adecuadamente se utilizará la definición, ejemplos 
 
 - **Lectura Basal y Ciclo Ocular (Apertura/Cierre):**  
   * **Dominio temporal:** Fluctuaciones lentas de gran amplitud ($-1.5$ a $1.5$ u) vinculadas al parpadeo y la acomodación visual.  
-  * **PSD:** Concentración dominante en **Delta** ($< 4\text{ Hz}$, $> 10^{-2}\text{ u}^2/\text{Hz}$). En condición basal se aprecian componentes estables en **Alfa** ($8 - 12\text{ Hz}$)[cite: 3], los cuales sufren atenuación (bloqueo alfa) y redistribuyen su potencia hacia **Beta** al mantener la vista fija.
+  * **PSD:** Concentración dominante en **Delta** ($< 4\text{ Hz}$, $> 10^{-2}\text{ u}^2/\text{Hz}$). En condición basal se aprecian componentes estables en Alfa ($8 - 12\text{ Hz}$), los cuales sufren atenuación (bloqueo alfa) y redistribuyen su potencia hacia **Beta** al mantener la vista fija.
 
 - **Preguntas Complejas (Carga Cognitiva):**  
   * **Dominio temporal:** Señal más compacta y homogénea ($-0.8$ a $0.7$ u) dominada por oscilaciones rápidas continuas.  
-  * **PSD:** Se observa una supresión evidente del ritmo **Alfa** por desincronización cortical y un sostenimiento de potencia en la banda **Beta** ($12 - 25\text{ Hz}$ en torno a $2 \times 10^{-4}\text{ u}^2/\text{Hz}$), reflejando concentración y procesamiento mental activo.
+  * **PSD:** Se observa una supresión evidente del ritmo Alfa por desincronización cortical y un sostenimiento de potencia en la banda Beta($12 - 25\text{ Hz}$ en torno a $2 \times 10^{-4}\text{ u}^2/\text{Hz}$), reflejando concentración y procesamiento mental activo.
 
 - **Música Tranquila (Lofi Theme):**  
   * **Dominio temporal:** Trazo estable centrado en $\pm 0.5$ u tras un pico inicial transitorio.  
-  * **PSD:** Incremento relativo y sostenido en **Theta** ($4 - 8\text{ Hz}$, $\sim 10^{-3}\text{ u}^2/\text{Hz}$)[cite: 5], característico de estados de calma y relajación pasiva, con una curvatura de **Alfa** mejor conservada respecto a la tarea cognitiva.
+  * **PSD:** Incremento relativo y sostenido en Theta ($4 - 8\text{ Hz}$, $\sim 10^{-3}\text{ u}^2/\text{Hz}$), característico de estados de calma y relajación pasiva, con una curvatura de Alfa mejor conservada respecto a la tarea cognitiva.
 
 - **Música Movida (Hard Metal):**  
   * **Dominio temporal:** Oscilaciones de alta frecuencia densas y continuas acotadas en $\pm 0.4$ u.  
-  * **PSD:** Mayor contribución de energía en **Beta alta** y **Gamma** ($> 20\text{ Hz}$) frente a la música tranquila[cite: 5, 6], evidenciando incremento en la alerta cortical y la posible presencia de micro-artefactos musculares (EMG) inducidos por el estímulo auditivo.
+  * **PSD:** Mayor contribución de energía en Beta alta y Gamma ($> 20\text{ Hz}$) frente a la música tranquila, evidenciando incremento en la alerta cortical y la posible presencia de micro-artefactos musculares (EMG) inducidos por el estímulo auditivo.
 
 # Respuestas del Quizz
 
