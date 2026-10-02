@@ -72,6 +72,7 @@ https://github.com/user-attachments/assets/84aead63-fb3d-46f2-8396-02938b7609a4
 # Imágenes de la señal ploteada en Open Signals (Segunda Persona)
 
 - Lectura Basal
+   <img width="324" height="288" alt="wsefewgwege" src="Laboratorios/Lab06/Lectura basal.jpg" />
 
 - Inicio de Ciclo de Apertura y Cierre de Ojos
 - Susurrar 5 Preguntas Complejas
