@@ -128,7 +128,9 @@ Sí, una tarea mental o visual puede influir en la actividad EEG, pero no podemo
 
 Q4. Show a screenshot of a relevant portion of EEG data within the experiment proposed. Does this signal
 correspond to what you expected? Why?
+
 <img width="600" height="380" alt="image" src="https://github.com/user-attachments/assets/8b961656-2a50-484f-a55c-92e8749b2a65" />
+<img width="600" height="380" alt="image" src="https://github.com/user-attachments/assets/08efc882-4ecb-40b8-923d-071087cc3e46" />
 
 
 Q5. Is there any difference in the signal between the two locations FP1 and FP2?
