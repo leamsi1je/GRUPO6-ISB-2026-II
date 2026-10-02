@@ -115,17 +115,29 @@ Para realizar el análisis adecuadamente se utilizará la definición, ejemplos 
 
 Q1. Which are the significant frequencies for EEG acquisitions? Are they the same in all brain areas?
 
+Las bandas de frecuencia principales del EEG son delta (0–4 Hz), theta (4–8 Hz), alfa (8–12 Hz), beta (12–25 Hz) y gamma (por encima de 25 Hz). Estas no son necesariamente iguales en todas las áreas cerebrales, la actividad registrada variará según la ubicación de los electrodos y la tarea a realizar. 
+
 Q2. Which kind of filter is essential when working with EEG signals? Why do we need to apply such a filter?
+
+Cuando trabajamos con señales EEG es importante utilizar un filtro pasa-banda; ya que este conserva las frecuencias de interés y reduce los cambios muy lentos de la línea base y el ruido de frecuencias muy altas. Cabe resaltar que el BITalino ya aplica un filtro pasa-banda de aproximadamente 0,8–48 Hz. 
 
 Q3. Can you influence the EEG signal by your thoughts? What action can you do to trigger one frequency band of
 choice? Were you able to visualize the change in the signal?
+
+Sí, una tarea mental o visual puede influir en la actividad EEG, pero no podemos elegir y reproducir de manera exacta una frecuencia deseada. Por ejemplo, relajarse mucho puede aumentar la actividad alfa y realizar cálculos mentales puede activar actividad relacionada con la beta. Nosotros pudimos observar cambios en la forma de onda, pero las gráficas no confirman claramente un cambio en una banda específica. También, algunos cambios grandes podrían deberse a movimientos de los ojos, tensión de los músculos faciales o movimiento de los electrodos.
 
 Q4. Show a screenshot of a relevant portion of EEG data within the experiment proposed. Does this signal
 correspond to what you expected? Why?
 
 Q5. Is there any difference in the signal between the two locations FP1 and FP2?
 
+
+
 Q6. Which frequencies are supposed to change in the given tasks? Can you see the specific changes in the RAW
 signal? Describe what you see.
 
+Sí. Por ejemplo, al cerrar los ojos, se espera que aumente la frecuencia alfa (8–12 Hz); al abrirlos, esta debería disminuir. Las preguntas o cálculos mentales pueden afectar la banda beta (12–25 Hz). 
+
 Q7. To the best of your knowledge, does the EEG amplitude equal to the level of focus you have applied?
+
+No. La amplitud del EEG no mide directamente la concentración. También puede verse afectada por la ubicación y el contacto de los electrodos, los movimientos de los ojos, la tensión muscular y otros artefactos del registro.
