@@ -136,7 +136,7 @@ En este experimento, las señales obtenidas corresponden a lo que se esperaba. D
 
 Q5. Is there any difference in the signal between the two locations FP1 and FP2?
 
-
+Según el sistema internacional 10-20, FP1 corresponde a la región prefrontal izquierda y FP2 a la derecha. Esto indica que ambos electrodos registran la actividad EEG desde distintas posiciones, lo cual hace que la señal tenga ciertas variaciones. Estudios previos han analizado la diferencia entre FP1 y FP2 mediante medidas de asimetría prefrontal. Un estudio publicado en British Journal of Anaesthesia midió por separado la potencia de la banda alfa en FP1 y FP2 para cuantificar la asimetría frontal, demostrando que estos dos canales pueden presentar diferencias en su potencia espectral [1]. Aunque ambas pueden presentar patrones similares, no son iguales.
 
 Q6. Which frequencies are supposed to change in the given tasks? Can you see the specific changes in the RAW
 signal? Describe what you see.
@@ -146,3 +146,8 @@ Sí. Por ejemplo, al cerrar los ojos, se espera que aumente la frecuencia alfa (
 Q7. To the best of your knowledge, does the EEG amplitude equal to the level of focus you have applied?
 
 No. La amplitud del EEG no mide directamente la concentración. También puede verse afectada por la ubicación y el contacto de los electrodos, los movimientos de los ojos, la tensión muscular y otros artefactos del registro.
+
+
+
+
+[1] Bae J, Lee JS, Oh J, Han DW, Jung H, Kim SM, et al. Association between preoperative frontal electroencephalogram alpha asymmetry and postoperative quality of recovery: an observational study. Br J Anaesth. 2023;130(4):430-438. doi:10.1016/j.bja.2022.12.003.
