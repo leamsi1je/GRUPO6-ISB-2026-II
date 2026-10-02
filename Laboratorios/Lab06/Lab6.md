@@ -132,6 +132,7 @@ correspond to what you expected? Why?
 <img width="600" height="380" alt="image" src="https://github.com/user-attachments/assets/8b961656-2a50-484f-a55c-92e8749b2a65" />
 <img width="600" height="380" alt="image" src="https://github.com/user-attachments/assets/08efc882-4ecb-40b8-923d-071087cc3e46" />
 
+En este experimento, las señales obtenidas corresponden a lo que se esperaba. Durante la música tranquila, la señal estuvo más tiempo en un intervalo corto de 0.6 de amplitud, con un pico y una caída. La música fuerte se mantuvo en un intervalo entre -0.45 y 0.45, y se pueden observar fluctuaciones más frecuentes y sostenidas a los largo del intervalo. Antes del experimento, esperabamos que la música movida, al ser un estímulo auditivo más dinámico y fuerte, produjera mayores variaciones en la actividad EEG que la música tranquila, como se evidencia en el dominio temporal. Además, es posible que los picos aislados durante la música tranquila sean producto de artefactos. Sin embargo, en el dominio frecuencial, ambos casos del experimento presentan una distribución similar con una potencia mayor en las frecuencias bajas. 
 
 Q5. Is there any difference in the signal between the two locations FP1 and FP2?
 
